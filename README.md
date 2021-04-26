@@ -18,5 +18,7 @@ SO THAT I have quick access to their emails and GitHub profiles
 
 <br/>
 
-[Video](https://meeting.zoho.com/meeting/public/videoprv?recordingId=eb1f1d524c027bff498419cba0de7949)
+[Video](https://meeting.zoho.com/meeting/public/videoprv?recordingId=eb1f1d524c027bff498419cba0de7949)<br/>
 
+
+[Github](https://github.com/harry23gust/Team-Profile-Generator)
